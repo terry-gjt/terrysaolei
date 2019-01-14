@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\terry\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_07ae27a089e39909e72ba700059a4221ad8e0768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_3aa6d2f24468cbc33a6a4b574d0a38e30a99a10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_8fa0bf4adccb6820d714190c000d06f37681a45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_e64acf09f0c564d44a6dbb86713e8f7944c0f36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\terry\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\common-1.0.0_55104589b90f4ece5806aaf401559f100083da8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\terry\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\common-1.0.0_d39fa0141e5f6e1c7efdb871e20aa751abfee1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_7b7303f45fffc1c756f4420f1a78ad6b0359c233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_3528397c232bc2f45ffd3f1e8d24762e2f26786f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_0a43cf9a07a08a7a23e8099a1837b3300269e73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_b1bd8ccf13f63362bb9dc7d0b6a1c74cb5e030be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_0320ae32447e5c9fa7ed54fb1ea2c3492b8511b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c19bff98740c66b8761e8196286115a67e6c0b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_42de61835ff951d2758dd9dd4061c39963d8bd4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_aa3ab6468635a048efd4463b9bac1c9717fc9a53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\ProgramFiles\android_s_workplace\terrysaolei\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_507e56d1cf1a3591a344fbe4cb1b86a0b9257377.jar" />
+    </item>
+
+</items>
